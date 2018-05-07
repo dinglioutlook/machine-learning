@@ -1,3 +1,7 @@
+# Introduction:
+This is Udacity reinformance-learning project, and this project achieved two A+ test scores.
+Please refer [smartcab](smartcab.html) for detail information.
+
 # Machine Learning Engineer Nanodegree
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
