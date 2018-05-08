@@ -1,6 +1,6 @@
 # Machine Learning Engineer Nanodegree
 ## Project: Credit Card Fraud Detecion
-[Capstone Proposal](capstone_proposal.md)
+[Capstone Proposal](capstone-proposal.pdf)
 
 
 **Note from Udacity**
