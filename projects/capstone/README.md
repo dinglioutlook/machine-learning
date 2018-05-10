@@ -11,7 +11,7 @@ Traditional machine learning models may not work well on unbalanced data. Such a
 The data is too big to upload at github, please download the [credit card dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud/data) here.
 
 ## Environment:
-The experiement are based on python2.7, all requirements can be found [here](requirements.txt), and notebook at [here](credit_card_fraud_detection.ipynb)
+The experiement are based on python 3.6, all requirements can be found [here](requirements.txt), and notebook at [here](credit_card_fraud_detection.ipynb)
 
 ## Note from Udacity
 
