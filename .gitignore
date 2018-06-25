@@ -63,3 +63,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# credit card data - too big to upload
+creditcard.csv

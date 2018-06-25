@@ -5,7 +5,7 @@ Traditional machine learning models may not work well on unbalanced data. Such a
 ## Reports
 [Capstone Proposal Report](capstone-proposal.pdf) </p>
 [Proposal Review Result](https://review.udacity.com/#!/reviews/1206925) </p>
-[Capstone Final Report](capstone-report.pdf)
+[Capstone Final Report](capstone-final-report.pdf)
 
 ## Data
 The data is too big to upload at github, please download the [credit card dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud/data) here.
